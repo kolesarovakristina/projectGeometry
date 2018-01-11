@@ -24,6 +24,9 @@ public class Main {
         System.out.println("Perimeter of triangle is " +tria.getPerimeter());
         System.out.println("Area of triangle is " +tria.getArea());
         System.out.println("Is triangle rectangular " +tria.isTriangleRectangular());
+        System.out.println("Can triangle exists " +tria.existsTriangle());
+        System.out.println("Is triangle equilateral " +tria.isTriangleEquilateral());
+        System.out.println("Is triangle Isosceles " +tria.isTriangleIsosceles());
 
 
 
